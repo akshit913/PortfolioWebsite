@@ -12,7 +12,7 @@
   },
   "homepage": "http://akshit913.github.io/PortfolioWebsite",
   "scripts": {
-    "start": "npm start",
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
